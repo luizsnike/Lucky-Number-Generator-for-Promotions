@@ -1,0 +1,5 @@
+Quantidade total de números: 10000
+
+
+Quantidade de duplicatas: 0
+Registros duplicados:
